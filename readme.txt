@@ -3,5 +3,4 @@ Git is free software.
 git has a hahahahhahahh
 llllllllll
 vndfjvndjkvndfn
-nsdjkvnsdjkvnsdkvn
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
