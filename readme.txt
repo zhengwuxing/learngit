@@ -4,3 +4,4 @@ git has a hahahahhahahh
 llllllllll
 vndfjvndjkvndfn
 nsdjkvnsdjkvnsdkvn
+Creating a new branch is quick & simple.
